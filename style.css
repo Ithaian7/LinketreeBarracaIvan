@@ -22,8 +22,8 @@ background-color: #000000;
 
 .item{
     
-    max-width: 500px;
-    padding: 25px;
+    max-width: 800px;
+    padding: 50px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px #000000bb;
     justify-content: center;
