@@ -22,7 +22,7 @@ background-color: #000000;
 
 .item{
     
-    max-width: 800px;
+    max-width: 100%;
     padding: 50px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px #000000bb;
