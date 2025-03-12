@@ -22,10 +22,13 @@ background-color: #000000;
 
 .item{
     
-        max-width: 250px;
-        justify-content: center;
-        align-items: center;
-        flex-direction: center;
+    max-width: 250px;
+    padding: 10px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px #000000bb;
+    justify-content: center;
+    align-items: center;
+    flex-direction: center;
     }
 
   
