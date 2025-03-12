@@ -21,7 +21,8 @@ background-color: #000000;
     }
 
 .item{
-
+    
+        max-width: 250px;
         justify-content: center;
         align-items: center;
         flex-direction: center;
